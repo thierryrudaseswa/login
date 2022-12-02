@@ -1,0 +1,30 @@
+form {text-align: center;
+    background-color: rgb(234, 240, 240);
+    width: 400px;
+    border-radius: 20px;
+    padding: 40px 60px;
+    margin: 29vh auto;
+
+}
+.input1{
+    width: 80%;
+    height: 35px;
+    background-color:#fff;
+    border-radius: 7px;
+}
+button {
+background-color: blue;
+width: 84%;
+height: 40px;
+border: 1px;
+margin-top: 10px;
+border-radius:7px
+
+}
+p{
+    color: blue;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
